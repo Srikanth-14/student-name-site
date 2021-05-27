@@ -6,6 +6,5 @@ Hey!
  For now, I know :
  javascript 
  nodejs
- HTNL
- CSS
+ repl.it
 
